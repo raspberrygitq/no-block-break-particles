@@ -51,3 +51,5 @@ Below is a list of blocks that still have particles and the versions that are af
  - End Gateway
  - Skulls
  - All Bed Variants
+ ## Copyright
+The author of the project is [@Neo Aylor](https://gitlab.com/___Neopolitan)
